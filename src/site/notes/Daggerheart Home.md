@@ -8,11 +8,11 @@ Welcome to the home page of the Daggerheart wiki for our campaign.
 ![witherwild.png](/img/user/_assets/witherwild.png)
 
 ## Party
-| File                                        | Image                               |
-| ------------------------------------------- | ----------------------------------- |
-| [[Party/Tadwic Fenmere\|Tadwic Fenmere]] | \-                                  |
-| [[Party/Arimir\|Arimir]]                 | ![[_assets/arimir.png\|arimir.png]] |
-| [[Party/Rakka Runekin\|Rakka Runekin]]   | ![[_assets/rakka.png\|100]]         |
-| [[Party/Pynos\|Pynos]]                   | ![[_assets/pynos.png\|100]]         |
+| File                                        | Heritage                         | Class                  | Subclass                                 |
+| ------------------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
+| [[Party/Tadwic Fenmere\|Tadwic Fenmere]] | [[Ribbet\|Ribbet]]               | [[Bard\|Bard]]         | [[Wordsmith\|Wordsmith]]                 |
+| [[Party/Arimir\|Arimir]]                 | [[Giant Firbolg\|Giant Firbolg]] | [[Guardian\|Guardian]] | [[Sentinel\|Sentinel]]                   |
+| [[Party/Rakka Runekin\|Rakka Runekin]]   | [[Simiah\|Simiah]]               | [[Rogue\|Rogue]]       | [[Nightwalker\|Nightwalker]]             |
+| [[Party/Pynos\|Pynos]]                   | [[Faun\|Faun]]                   | [[Druid\|Druid]]       | [[Warden of Renewal\|Warden of Renewal]] |
 
 { .block-language-dataview}
