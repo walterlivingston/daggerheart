@@ -8,11 +8,11 @@ Welcome to the home page of the Daggerheart wiki for our campaign.
 ![witherwild.png](/img/user/_assets/witherwild.png)
 
 ## Party
-| File                                        | Image                        |
-| ------------------------------------------- | ---------------------------- |
-| [[Party/Tadwic Fenmere\|Tadwic Fenmere]] | \-                           |
-| [[Party/Arimir\|Arimir]]                 | ![[_assets/arimir.png\|100]] |
-| [[Party/Rakka Runekin\|Rakka Runekin]]   | ![[_assets/rakka.png\|100]]  |
-| [[Party/Pynos\|Pynos]]                   | ![[_assets/pynos.png\|100]]  |
+| File                                        | Image                               |
+| ------------------------------------------- | ----------------------------------- |
+| [[Party/Tadwic Fenmere\|Tadwic Fenmere]] | \-                                  |
+| [[Party/Arimir\|Arimir]]                 | ![[_assets/arimir.png\|arimir.png]] |
+| [[Party/Rakka Runekin\|Rakka Runekin]]   | ![[_assets/rakka.png\|100]]         |
+| [[Party/Pynos\|Pynos]]                   | ![[_assets/pynos.png\|100]]         |
 
 { .block-language-dataview}
