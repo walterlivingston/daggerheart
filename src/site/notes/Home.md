@@ -5,7 +5,7 @@
 # Daggerheart
 Welcome to the home page of the Daggerheart wiki for our campaign.
 
-**Latest Session**: [[Session Notes/Session 2 - 08-14-2025\|Session 2 - 08-14-2025]]
+**Latest Session**: [[Session Notes/Session 4 - 09-07-2025\|Session 4 - 09-07-2025]]
 
 ## The Witherwild
 ![witherwild.png](/img/user/_assets/witherwild.png)

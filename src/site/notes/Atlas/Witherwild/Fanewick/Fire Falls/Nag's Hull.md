@@ -6,4 +6,4 @@ Tavern/Inn in [[Atlas/Witherwild/Fanewick/Fire Falls/Fire Falls\|Fire Falls]]
 
 ## Notes
 - Large tent in a hole in the ground
-- Owned and operated by [[Narnick Naghull\|Narnick Naghull]]
+- Owned and operated by [[NPCs/Narnick Naghull\|Narnick Naghull]]
