@@ -3,3 +3,5 @@
 ---
 
 Stole the [[Reaping Eye\|Reaping Eye]]
+## Notes
+- Also known as Fallic
