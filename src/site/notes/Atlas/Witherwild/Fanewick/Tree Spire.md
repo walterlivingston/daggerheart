@@ -5,4 +5,4 @@
 Description
 
 ## Notes
-- [[Lore/Reapers of Nikta\|Reapers of Nikta]] have a base here.
+- [[Lore/Factions/Reapers of Nikta\|Reapers of Nikta]] have a base here.

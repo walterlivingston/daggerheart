@@ -14,10 +14,10 @@ Welcome to the home page of the Daggerheart wiki for our campaign.
 | File                                          | Heritage                         | Class                  | Subclass                                 |
 | --------------------------------------------- | -------------------------------- | ---------------------- | ---------------------------------------- |
 | [[Party/Arimir\|Arimir]]                   | [[Giant Firbolg\|Giant Firbolg]] | [[Guardian\|Guardian]] | [[Sentinel\|Sentinel]]                   |
-| [[Party/Rakka Runekin\|Rakka Runekin]]     | [[Simiah\|Simiah]]               | [[Rogue\|Rogue]]       | [[Nightwalker\|Nightwalker]]             |
 | [[Party/Gedros Franklyn\|Gedros Franklyn]] | [[Galapa\|Galapa]]               | [[Sorcerer\|Sorcerer]] | \-                                       |
+| [[Party/Rakka Runekin\|Rakka Runekin]]     | [[Simiah\|Simiah]]               | [[Rogue\|Rogue]]       | [[Nightwalker\|Nightwalker]]             |
+| [[Party/Silas\|Silas]]                     | [[Human\|Human]]                 | [[Seraph\|Seraph]]     | \-                                       |
 | [[Party/Pynos\|Pynos]]                     | [[Faun\|Faun]]                   | [[Druid\|Druid]]       | [[Warden of Renewal\|Warden of Renewal]] |
 | [[Party/Tadwic Fenmere\|Tadwic Fenmere]]   | [[Ribbet\|Ribbet]]               | [[Bard\|Bard]]         | [[Wordsmith\|Wordsmith]]                 |
-| [[Party/Silas\|Silas]]                     | [[Human\|Human]]                 | [[Seraph\|Seraph]]     | \-                                       |
 
 { .block-language-dataview}
